@@ -8,5 +8,5 @@ the plate in the game move the same way! Done using Processing 3.
   - Open the TangibleGame.pde file with processing 3.  
   - Here for demonstration purpose the game is controlled by a video of someone moving a plate so you don't have to do it.
   
- *Here is an image showing how the game looks like:  *
- <img src="drawing.jpg" alt="drawing" width="200"/>
+ *Here is an image showing how the game looks like:*        
+ <img src="https://github.com/Liam-mza/Image-Processing-Tangible-Game/blob/main/image/tangible-game-example.png" alt="drawing" width="400"/>
