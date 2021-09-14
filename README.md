@@ -1,6 +1,5 @@
 # Image-Processing-Tangible-Game
-A tangible game that use image processing to detect the movements that you make with a plate in front of your camera to make   
-the plate in the game move the same way! Done using Processing 3.
+A tangible game that use image processing to detect the movements that you make with a plate in front of your camera to make the plate in the game move the same way! Done using Processing 3.
 
 
 # How to launch
